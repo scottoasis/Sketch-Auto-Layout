@@ -1,0 +1,25 @@
+{
+  "name": "sketch-auto-layout",
+  "version": "0.1.0",
+  "description": "Sketch Auto Layout Plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/scottoasis/Sketch-Auto-Layout.git",
+    "type": "git"
+  },
+  "keywords": [
+    "Sketch",
+    "Plugin",
+    "Layout",
+    "Flex"
+  ],
+  "author": "Scott Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottoasis/SketchAutoLayout/issues"
+  },
+  "homepage": "https://github.com/scottoasis/SketchAutoLayout#readme"
+}

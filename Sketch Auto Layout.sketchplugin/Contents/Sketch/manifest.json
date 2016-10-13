@@ -1,0 +1,17 @@
+{
+  "name": "Sketch Auto Layout",
+  "description" : "Sketch Auto Layout based on constraint boxes",
+  "author" : "Scott Wang",
+  "authorEmail" : "me@scottoas.is",
+  "homepage": "https://github.com/scottoasis/Sketch-Auto-Layout",
+  "version" : "0.1.0",
+  "identifier" : "is.scottoas.sketch-auto-layout",
+  "compatibleVersion": "3.3",
+  "bundleVersion": "1",
+  "commands" : [
+  ],
+  "menu" : {
+    "items" :[
+    ]
+  }
+}
